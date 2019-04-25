@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 avr. 2019, 21:07:17
+    Author     : chekibsuccaram
+*/
+
+/* FONT */
+nav a{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #CA577E;
+}
+
+h3, h5 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #CA577E;
+}
+
+p, ol{
+    font-family: 'Josefin Slab', serif;
+    color: #5C5A61;
+}
+
+/* END FONT */
+
+.recherche{
+    color: #CA577E;
+    border: solid 1px #CA577E;
+
+}
+
+
+.margin-section {
+    padding-top: 50px;
+}
+
+footer {
+    padding: 50px 0 50px 0;
+}
