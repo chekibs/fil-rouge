@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 avr. 2019, 21:07:17
+    Author     : chekibsuccaram
+*/
+
+/* FONT */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#nav {
+    padding: 20px;
+}
+nav a{
+    font-family: 'Sacramento', cursive;
+    color: #100F40;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+}
+
+h3, h5 {
+    font-family: 'Alice', serif;
+    color: #1D2540;
+}
+
+p, ol, ul{
+    font-family: 'Alice', serif;
+    color: #5C5A61;
+}
+
+/* END FONT */
+
+.recherche{
+    color: #100F40;
+    border: solid 1px #100F40;
+
+}
+
+
+.margin-section {
+    padding-top: 50px;
+}
+
+footer {
+    padding: 50px 0 50px 0;
+}
+
+#logo{
+    width: 137px;
+}
+
+
+table, td{
+    padding: 3px;
+    text-align: center;
+    border: 1px solid #333;
+}
